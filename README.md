@@ -26,13 +26,12 @@ This project demonstrates **Object-Oriented Programming concepts** along with ar
 
 ## 🛠 Tech Stack
 - **Language:** Java  
-- **IDE:** Visual Studio Code (or any Java IDE)  
+- **IDE:** Visual Studio Code   
 - **Concepts Used:**  
   - Object-Oriented Programming (OOP)  
   - Encapsulation  
   - Arrays  
-  - Input Validation  
-  - Control Structures  
+  - Input Validation   
 
 ---
 
