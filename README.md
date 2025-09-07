@@ -46,15 +46,25 @@ README.md // Project Documentation
 Welcome to Banking Application!
 
 1.Create a new Account
+
 2.Deposit Money
+
 3.Withdraw Money
+
 4.View Account Details
+
 5.Update Contact Details
+
 6.Exit
 
 Enter your Choice: 1
+
 Enter account holder name: Riya Singh
+
 Enter initial deposit amount: 50000
+
 Enter email address: riya.singh@gmail.com
+
 Enter phone number: 98348649232
+
 Account created successfully with Account Number: 1001
