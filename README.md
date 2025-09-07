@@ -38,3 +38,8 @@ This project demonstrates **Object-Oriented Programming concepts** along with ar
 
 ## 📂 Project Structure
 
+BankingApplication/
+│
+├── UserInterface.java // Main application file
+├── README.md // Project Documentation
+
